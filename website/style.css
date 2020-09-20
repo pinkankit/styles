@@ -21,9 +21,9 @@ body{
     font-size: 30px;
         padding: 0px 20px;
 }
-.local{
+.menu{
     display:inline-block;
-    float: right;
+    float:right;
     color: rgb(253, 253, 253);
     text-align: center;
     padding: 14px 16px;
