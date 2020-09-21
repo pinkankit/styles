@@ -74,7 +74,7 @@
   height: 20%;
 }
 .con{
-  height: 200px;
+  height: 250px;
   margin-top: 150px;
 
 }
@@ -191,5 +191,25 @@ h3{
 }
 .detailicon{
   margin: 100px 0px;
+  text-align: center;
+}
+.imagoverflow{
+  overflow: hidden;
+  height: 80vh;
+
+}
+.crausel1{
+  margin-top: 40px;
+}
+.iconsstyle{
+  width: 200px;
+  margin-top: 100px;
+}
+.colorstyle {
+  background-color:#ef8172;
+  height: 250px;
+  width: 100%;
+}
+.col-sm{
   text-align: center;
 }
