@@ -7,7 +7,7 @@
   font-size: 3.5rem;
   text-align: left;
 }
-.color{
+.header{
   background-color: #ff4c68;
   
 }
@@ -41,22 +41,25 @@
   
   height:530px
 }
+
+
 .buttonStyle{
   color: white;
   background-color: #343a40;
   font-family: inherit;
   margin: 19.912px 11.938px 19.913px 0px;
   padding: 8px 40px;
-  border: none;
+ border-color: #343a40 ;
+ /* border-sh */
 
   font-size: 1.25rem;
-  border-radius: 7%;
-  text-align: center;
+  border-radius: 5px;
+  /* text-align: center; */
   font-weight: 400;
-  overflow: visible;
+  overflow: none;
   /* margin: 5% 3% 5% 0%;
    */
-   text-align: right;
+   text-align: left;
 
 
 }
